@@ -3,10 +3,7 @@ Semester Project for Intelligent and Adaptive Control Systems Course.
 
 ## Model Reference Adaptive Control
 
-This folder contains the files for the semester project in
-Intelligent and Adaptive Control Systems.
-
-Specifically:
+Specifically, the files used:
 - Main_1.m			- Main File for the results.
 - IdealSys.m			- odefunc for the ideal system.
 - LinUnSys.m 			- odefunc for the presence of (known) uncertainties, to show instabillity.
