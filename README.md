@@ -1,5 +1,5 @@
 # Adaptive Control MRAC
-Semester Project for Intelligent and Adaptive Control Systems / Aristotle University of Thessaloniki 2021-2022
+Semester Project for Intelligent and Adaptive Control Systems Course.
 
 ## Model Reference Adaptive Control
 
